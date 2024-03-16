@@ -1,0 +1,21 @@
+{
+  "cron": "* * * * *",
+  "outputDirectory": "",
+  "engine": {
+    "type": "mongo",
+    "backupName": "",
+    "databaseUrl": ""
+  },
+  "notification": {
+    "type": "telegram",
+    "chatId": "",
+    "botToken": ""
+  },
+  "uploader": {
+    "type": "gcp",
+    "storageKeyPath": "",
+    "backupsFolderPath": "",
+    "bucketName": "",
+    "projectId": ""
+  }
+}
