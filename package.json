@@ -1,6 +1,6 @@
 {
   "name": "easy-server-backup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Nabil Newaz",
   "license": "MIT",
   "description": "Server backup tool to make it easy",
@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/KimoxStudio/ec-backup.git"
+    "url": "https://github.com/NabilNewaz/easy-server-backup.git"
   },
-  "homepage": "https://github.com/KimoxStudio/ec-backup",
-  "bugs": "https://github.com/KimoxStudio/ec-backup/issues",
+  "homepage": "https://github.com/NabilNewaz/easy-server-backup",
+  "bugs": "https://github.com/NabilNewaz/easy-server-backup/issues",
   "keywords": [
     "backup",
     "easy-backup",
